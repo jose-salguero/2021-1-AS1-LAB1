@@ -9,7 +9,7 @@
 - Catedratico: Josue Barillas
 
 ## USAGE 
-###Comandos git 
+### Comandos git 
 
 1. git clone https://github.com/jose-salguero/2021-1-AS1-LAB1.git
 
