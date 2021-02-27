@@ -25,7 +25,7 @@
 
 7. git status
 
-8. add CU_Transport.png
+8. git add CU_Transport.png
 
 9. git status
 
